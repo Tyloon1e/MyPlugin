@@ -1,6 +1,5 @@
 main: me.Tyloon1e.MyPlugin.MyPlugin
 name: MyPlugin
-description: MyPlugin is my plugin.
 version: 1.0.0
 author: Tyloon1e
 commands:
